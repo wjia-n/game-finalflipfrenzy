@@ -1,7 +1,7 @@
 name: finalflipfrenzy
 description: "Final Flip Frenzy - flip chain finale"
 publish_to: 'none'
-version: 1.0.0+2
+version: 1.0.0+3
 
 environment:
   sdk: ^3.13.5
